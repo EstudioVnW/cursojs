@@ -1,6 +1,6 @@
 # Curso JS - Desafio 1
 
-Resolva o defafio utilizando os conceitos de JavaScript estudados até o momento.
+Resolva o desafio utilizando os conceitos de JavaScript estudados até o momento.
 
 ## Como participar
 
